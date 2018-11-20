@@ -53,4 +53,4 @@ At a high level, the steps you will need to take to get this set up are listed b
     Responding to `BOT TEST` message sent by user @yourUserName
     ```
 ## How To Video
-[Coming Soon]()
+[Coming Soon](https://www.youtube.com/watch?v=EYxAhK_eDx0)
